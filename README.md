@@ -2,7 +2,7 @@
 
 This is a repository to store my personal notes about my learnings in Data Science.
 
-## Data Science Dictionary
+## Metrics
 
 ### Accuracy
 $accuracy = \frac{TP+TN}{TP+TN+FP+FN}$
@@ -17,3 +17,9 @@ High recall = lower FN rate, i.e. most TP are classified correctly
 
 ### F1 Score
 $f1 = 2\times \frac{precision\times recall}{precision + recall}$
+
+## Algorithms
+
+### KNeighborsClassifier
+- Used for supervised classification
+- measured by Accuracy
