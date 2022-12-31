@@ -16,3 +16,6 @@ This is a repository to store my personal notes about my learnings in Data Scien
 ### KNeighborsClassifier
 - Used for supervised classification
 - measured by Accuracy
+
+# Tips and Tricks
+To generate a requirements.txt file from the command line: pip freeze > requirements.txt
