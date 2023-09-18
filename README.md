@@ -2,8 +2,18 @@
 
 This is a repository to store my personal notes about my learnings in Data Science.
 
-## Metrics
+## Table of Contents
+- [Machine Learning](#machine-learning)
+- [Resources](#resources)
+- [Tips and Tricks](#tips-and-tricks)
 
+## Machine Learning
+- [Evaluation Metrics](#evaluation-metrics)
+- [Algorithms](#algorithms)
+
+### Evaluation Metrics
+
+**Classification**
 - Accuracy: $accuracy = \frac{TP+TN}{TP+TN+FP+FN}$
 - Precision - $precision = \frac{TP}{TP+FP}$
   - High precision = lower FP rate, i.e. not many TP are incorrectly classified as FN
@@ -11,16 +21,13 @@ This is a repository to store my personal notes about my learnings in Data Scien
   - High recall = lower FN rate, i.e. most TP are classified correctly
 - F1 Score: $f1 = 2\times \frac{precision\times recall}{precision + recall}$
 
-## Algorithms
+### Algorithms
 
-### KNeighborsClassifier
+**KNeighborsClassifier**
 - Used for supervised classification
 - measured by Accuracy
 
-# Tips and Tricks
-To generate a requirements.txt file from the command line: pip freeze > requirements.txt
-
-# Resources
+## Resources
 
 ## R/RStudio
 
@@ -28,3 +35,6 @@ To generate a requirements.txt file from the command line: pip freeze > requirem
 - https://mastering-shiny.org/
 - https://engineering-shiny.org/
 - https://happygitwithr.com/
+
+## Tips and Tricks
+To generate a requirements.txt file from the command line: pip freeze > requirements.txt
