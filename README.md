@@ -20,21 +20,25 @@ This is a repository to store my personal notes about my learnings in Data Scien
 - Recall: $recall = \frac{TP}{TP+FN}$
   - High recall = lower FN rate, i.e. most TP are classified correctly
 - F1 Score: $f1 = 2\times \frac{precision\times recall}{precision + recall}$
-
+[(back to Machine Learning)](#machine-learning)
 ### Algorithms
 
 **KNeighborsClassifier**
 - Used for supervised classification
 - measured by Accuracy
+  
+[(back to Machine Learning)](#machine-learning)
 
 ## Resources
 
-## R/RStudio
+### R/RStudio
 
-### eBooks
+**eBooks**
 - https://mastering-shiny.org/
 - https://engineering-shiny.org/
 - https://happygitwithr.com/
+
+[(back to Resources)](#resources)
 
 ## Tips and Tricks
 To generate a requirements.txt file from the command line: pip freeze > requirements.txt
