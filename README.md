@@ -1,6 +1,6 @@
 # Data Science Notes
 
-This is a repository to store my personal notes about my learnings in Data Science.
+This is a repository to store my personal notes about my learnings in Data Science and other resources.
 
 ## Table of Contents
 - [Machine Learning](#machine-learning)
@@ -32,6 +32,16 @@ This is a repository to store my personal notes about my learnings in Data Scien
 [(back to Machine Learning)](#machine-learning)
 
 ## Resources
+
+### Design
+- https://www.qrcode-monkey.com/
+- https://www.canva.com/
+- https://slidesgo.com/
+- https://coolors.co/
+- https://www.flaticon.com/
+- https://www.freepik.com/
+- https://matplotlib.org/stable/gallery/color/named_colors.html
+- https://matplotlib.org/stable/users/explain/colors/colormaps.html
 
 ### R/RStudio
 
